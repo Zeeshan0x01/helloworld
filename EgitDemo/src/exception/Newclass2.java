@@ -39,9 +39,8 @@ public class Newclass2 {
 			}
 		}
 		System.out.println("Bushra here, please enter your commits below");
-		System.out.println("Please enter your commits with your name and roll number");
-		System.out.println("Please enter your commits with your name and roll number");
-		System.out.println("Commit 3");
+		
+		
 
 
 
