@@ -3,7 +3,7 @@ package exception;
 import java.util.*;
 public class AgeInputVer1 
 {
-	private static final String DEFAULT_MESSAGE = "Your age: " ;
+	private static final String DEFAULT_MESSAGE = "Your age: 25" ;
 	private Scanner scanner;
 	public AgeInputVer1 ( ) {
 	scanner = new Scanner ( System.in ) ;
