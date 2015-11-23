@@ -38,9 +38,9 @@ public class Newclass2 {
 				ex.printStackTrace();
 			}
 		}
-		System.out.println("Bushra here, please enter your commits below");
+		System.out.println("ehtesham here, Roll number: fa12-bse-112");
 	
-		System.out.println("Ahsan Khan,FA12-bse-273");
+	
 
 		
 		
