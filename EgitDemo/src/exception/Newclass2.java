@@ -42,7 +42,12 @@ public class Newclass2 {
 		System.out.println("javeria  here, roll number:FA12-BSE-109");
 		
 
+
 		System.out.println("DANISH here, roll number:FA12-BSE-095");
+
+		System.out.println("Name : Naqeebullah Karim, roll number:FA12-BSE-108");
+
+
 
 
 	}
