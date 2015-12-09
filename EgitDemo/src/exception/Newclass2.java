@@ -37,6 +37,7 @@ public class Newclass2 {
 				System.err.println("An IOException was caught!");
 				ex.printStackTrace();
 			}
+			//Bluetooth is Enabled
 		}
 		
 	
